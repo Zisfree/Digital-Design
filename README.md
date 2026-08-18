@@ -1,2 +1,6 @@
 # Digital-Design
-This repo. will contain all the digital deign practicals.
+# Hi! 👋
+This repository is for the digital-design practicals I do in college.
+
+# Working-inz
+- iverilog
